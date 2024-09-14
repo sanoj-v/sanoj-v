@@ -6,7 +6,7 @@ Hi there, I'm <a href="javascript:void(0)" target="_blank" rel="noreferrer">Sano
 I'm a Front-end Developer 💻
 </h2> 
 
-I love the entire process of developing creative web applications. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing creative web applications with all compatible devices such as Desktop, Tablet & Mobile. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/sanoj-v/"><img align="left" src="https://raw.githubusercontent.com/sanoj-v/sanoj-v/20df1ebfc01129ba636c1593f9ffa46cb27a31f9/linkedin.svg" alt="Sanoj Vishwakarma | LinkedIn" width="21px"/></a>
