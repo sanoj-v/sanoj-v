@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="javascript:void(0)" target="_blank" rel="noreferrer">Sanoj</a> 👋
+Hi there, I'm <a href="https://www.linkedin.com/in/sanoj-v" target="_blank" rel="noreferrer">Sanoj</a> 👋
 </h3>
 
 <h2 align="center">
